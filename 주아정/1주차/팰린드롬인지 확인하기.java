@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 // BOJ_10988
+// https://www.acmicpc.net/problem/10988
 public class Main {
 
     public static void main(String[] args) throws IOException {
