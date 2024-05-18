@@ -1,3 +1,5 @@
+# 11399번 ATM문제
+
 a = int(input())
 b = list(map(int, input().split()))
 
