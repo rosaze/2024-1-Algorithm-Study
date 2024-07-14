@@ -7,6 +7,7 @@ N_list.sort()
 M = int(sys.stdin.readline())
 M_list = list(map(int, sys.stdin.readline().split()))
 
+
 for m in M_list:
     left = 0
     right = N-1
