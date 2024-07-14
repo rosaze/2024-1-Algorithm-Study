@@ -5,6 +5,7 @@ out= []
 stack = []
 current_num = 1
 
+
 for _ in range(n):
     target.append(int(input()))
 
