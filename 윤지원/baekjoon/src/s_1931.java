@@ -39,6 +39,7 @@ public class s_1931 {
         });
         int currentEndtime=0; // 현재 회의의 종료 시간
         int cnt=0; // 선택된 회의의 수
+
 // 모든 회의를 순회하면서 겹치지 않는 회의 선택
         for (int i=0;i<N;i++){
             if (currentEndtime<=room[i][0]){ // 이전 종료시간이 현재 회의 시작시간과 겹치지 않으먼
